@@ -1,0 +1,29 @@
+{
+  "name": "adoringfan",
+  "version": "0.1.0",
+  "description": "a adoring fan bot for discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArchanjoJr/AdoringFan.git"
+  },
+  "keywords": [
+    "legends_of_runeterra"
+  ],
+  "author": "ArchanjoJr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArchanjoJr/AdoringFan/issues"
+  },
+  "homepage": "https://github.com/ArchanjoJr/AdoringFan#readme",
+  "dependencies": {
+    "runeterra": "^0.1.0",
+    "underscore": "^1.10.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
