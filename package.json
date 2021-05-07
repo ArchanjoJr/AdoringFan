@@ -21,7 +21,7 @@
   "homepage": "https://github.com/ArchanjoJr/AdoringFan#readme",
   "dependencies": {
     "runeterra": "^0.1.0",
-    "underscore": "^1.10.2"
+    "underscore": "^1.12.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
